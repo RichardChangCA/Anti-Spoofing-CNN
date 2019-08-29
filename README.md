@@ -1,1 +1,1 @@
-# anti_proof_cnn
+# anti_spoof_cnn
