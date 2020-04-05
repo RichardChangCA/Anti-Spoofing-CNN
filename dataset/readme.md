@@ -17,11 +17,11 @@ imposter images: stored in the ImposterFace directory and indexed in imposter_te
 ID_galss_pos_session_picNo 
 
 E.g. 0010_01_05_03_115.jpg
-ID£º0001~0016 picture number
-Glasses£º00~01
- 	00£ºwith glasses
-	01£ºno glasses
-Pos£º   01~08 the location and light conditions of images
+IDÂ£Âº0001~0016 picture number
+GlassesÂ£Âº00~01
+ 	00Â£Âºwith glasses
+	01Â£Âºno glasses
+PosÂ£Âº   01~08 the location and light conditions of images
 	01: up-down-rotate
         02: up-down-twist
         03: left-right-rotate
@@ -30,8 +30,8 @@ Pos£º   01~08 the location and light conditions of images
         07: open-window-open-lights
         08: open-widow-shut-lights
         08: still
-Session£º01~03
-picNo£ºpicture number
+SessionÂ£Âº01~03
+picNoÂ£Âºpicture number
 
 3. We also provide the coordinate of left eyes(x, y), right eyes(x, y), and the nose(x, y), all of which are detected by a facial 
 feature detector. please see our eccv'10 paper for details about this.
